@@ -1,0 +1,20 @@
+# Lista de pontos tabelados entre [1.6, 6.7]
+#ffg
+n 6
+#fgfg
+#
+x 1.6 2.5 3.0 4.2 5.4 6.7
+# fgfg
+y -1.5 -2.1 0.3 1.4 2.1 3.9
+# Intervalo da integral definida em [2,5]
+# fgfg
+#
+a 2
+# gfg
+b 5
+# Lista de pontos a interpolar
+i 3
+p 2.0 3.5 4.0
+# Computar integral com 20 trapezios
+t 20
+

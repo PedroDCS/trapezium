@@ -1,0 +1,13 @@
+# Funcao: f(x) = 6 * sin(x) * x + 0.01 * x^3 - 0.4 * x^2
+# Lista de pontos tabelados entre[-8,8]
+n 10
+x -8.0 -6.0 -4.0 -3.0 -1.0 0.0 2.0 4.0 5.0 8.0 
+y 16.77 -26.61 -25.20 -1.33 4.63 0.0 9.39 -23.92 -37.51 27.00  
+# Integral definida em [4,8]
+a 4
+b 8
+# Lista de pontos a interpolar
+i 3
+p 4.5 6.0 7.0
+# Computar integral com  trapezios 5
+t 55
